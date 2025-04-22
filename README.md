@@ -4,6 +4,6 @@ to clone
 git clone https://github.com/sabin-ux/Post-Method.git
 <br>
 
-@run
+# run
 ```bash
 node app.js
